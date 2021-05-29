@@ -30,24 +30,23 @@
     
     <HelloWorld msg="Cresça em volume"/>
   </div>
+  <IShopee msg="Cresça em volume"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue'
+import IShopee from './components/IShopee.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    // HelloWorld
+    IShopee
   }
 }
 </script>
 
 <style>
-.logo {
-
-}
-
 #app {
   background-image: linear-gradient(to bottom, #EB4C00, #F2A900);
   padding-top: var(--header-height);
