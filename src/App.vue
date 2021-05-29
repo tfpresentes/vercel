@@ -49,11 +49,9 @@ export default {
 <style>
 #app {
   background-image: linear-gradient(135deg,#eb4c00,#f2a900);
-  padding-top: var(--header-height);
-  transition: opacity .7s cubic-bezier(.4,0,.2,1);
   display: flex;
-  --home-max-width: 100vw;
-  --gutter-width: 15px;
+  height: 100%;
+  width: 100%;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
