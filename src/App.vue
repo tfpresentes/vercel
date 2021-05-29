@@ -50,7 +50,7 @@ export default {
 body, html {
   height: 100%;
 }
-svg {
+nav, svg {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
