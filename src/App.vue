@@ -54,6 +54,7 @@ nav, svg {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 }
 #app {
   background-image: linear-gradient(135deg,#eb4c00,#f2a900);
