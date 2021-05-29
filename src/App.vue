@@ -28,7 +28,7 @@
       </svg>
     </nav>
     
-    <HelloWorld msg="Cresça em volume"/>
+    <!-- <HelloWorld msg="Cresça em volume"/> -->
   </div>
   <!-- <IShopee msg="Cresça em volume"/> -->
 </template>
