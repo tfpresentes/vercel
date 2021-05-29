@@ -30,18 +30,18 @@
     
     <HelloWorld msg="Cresça em volume"/>
   </div>
-  <IShopee msg="Cresça em volume"/>
+  <!-- <IShopee msg="Cresça em volume"/> -->
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
-import IShopee from './components/IShopee.vue'
+import HelloWorld from './components/HelloWorld.vue'
+// import IShopee from './components/IShopee.vue'
 
 export default {
   name: 'app',
   components: {
-    // HelloWorld
-    IShopee
+    HelloWorld
+    // IShopee
   }
 }
 </script>
