@@ -51,7 +51,7 @@ ul {
 }
 li {
   display: inline-block;
-  margin: 0 20px;
+  margin: 0 40px;
 }
 a {
   color: #fff;
