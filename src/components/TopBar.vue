@@ -2,29 +2,29 @@
 <nav>
 	<img src="../assets/logo.svg" alt="iShopee logo" name="iShopee" class="logo">
 	<ul>
-		<li class="ac-gn-item ac-gn-item-menu ac-gn-conheça">
-				<a class="ac-gn-link ac-gn-link-mac" href="/conheça/" data-analytics-title="conheça">
-					<span class="ac-gn-link-text">Conheça</span>
+		<li class="conheça">
+				<a class="link-conheça" href="/conheça/" data-analytics-title="conheça">
+					<span class="link-text">Conheça</span>
 				</a>
 			</li>
-		<li class="ac-gn-item ac-gn-item-menu ac-gn-suporte">
-				<a class="ac-gn-link ac-gn-link-mac" href="/suporte/" data-analytics-title="suporte">
-					<span class="ac-gn-link-text">Suporte</span>
+		<li class="suporte">
+				<a class="link-suporte" href="/suporte/" data-analytics-title="suporte">
+					<span class="link-text">Suporte</span>
 				</a>
 			</li>
-		<li class="ac-gn-item ac-gn-item-menu ac-gn-preços">
-				<a class="ac-gn-link ac-gn-link-mac" href="/preços/" data-analytics-title="preços">
-					<span class="ac-gn-link-text">Preços</span>
+		<li class="preços">
+				<a class="link-preços" href="/preços/" data-analytics-title="preços">
+					<span class="link-text">Preços</span>
 				</a>
 			</li>
-		<li class="ac-gn-item ac-gn-item-menu ac-gn-login">
-				<a class="ac-gn-link ac-gn-link-mac" href="/login/" data-analytics-title="login">
-					<span class="ac-gn-link-text">Login</span>
+		<li class="login">
+				<a class="link-login" href="/login/" data-analytics-title="login">
+					<span class="link-text">Login</span>
 				</a>
 			</li>
-		<li class="ac-gn-item ac-gn-item-menu ac-gn-trial">
-				<a class="ac-gn-link ac-gn-link-mac" href="/trial/" data-analytics-title="começe agora">
-					<span class="ac-gn-link-text">Começe agora</span>
+		<li class="trial">
+				<a class="link-trial" href="/trial/" data-analytics-title="começe agora">
+					<span class="link-text">Começe agora</span>
 				</a>
 			</li>
 	</ul>
@@ -54,7 +54,14 @@ li {
   margin: 0 20px;
 }
 a {
-  color: #2CC694;
+  color: #fff;
+  text-decoration: none;
+  font-size: 2em;
+  font-family: NeueMontreal,Arial,sans-serif;
+}
+.link-trial {
+	font-variant: small-caps;
+	font-weight: bold;
 }
 
 nav, ul{
@@ -65,7 +72,7 @@ nav, ul{
   display: inline;
   padding: auto;
   margin: 5%;
-  height: 3em;
+  height: 4em;
   /* display: inline; */
 }
 </style>
