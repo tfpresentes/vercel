@@ -1,10 +1,10 @@
 <template>
   <div>
-  <img src="../assets/bgPage1.png" alt="body">
+  <img src="../assets/bgPage1.svg" alt="body">
   <br>
-  <img src="../assets/bgPage2.png" alt="body">
+  <img src="../assets/bgPage2.svg" alt="body">
   <br>
-  <img src="../assets/bgPage3.png" alt="Footer">
+  <img src="../assets/bgPage3.svg" alt="Footer">
   </div>
 </template>
 
