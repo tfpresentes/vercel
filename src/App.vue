@@ -1,20 +1,23 @@
 <template>
   <div id="app">
-    <TopBar msg="Cresça em volume"/>
+    <Header msg="Cresça em volume"/>
     <Body msg="iShopee"/>
+    <Footer msg="ERP"/>
   </div>
 </template>
 
 <script>
-import TopBar from './components/TopBar.vue'
+import Header from './components/Header.vue'
 import Body from './components/Body.vue'
+import Footer from './components/Footer.vue'
 
 
 export default {
   name: 'app',
   components: {
-    TopBar,
-    Body
+    Header,
+    Body,
+    Footer
   }
 }
 </script>
@@ -25,9 +28,7 @@ body, html {
   width: 100%;
 }
 #app {
-  background-image: linear-gradient(135deg,#eb4c00,#f2a900);
-  height: 100%;
   width: 100%;
-  margin: 0em;
+  margin: 0;
 }
 </style>
