@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 164 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1845.81,-624.962)">
+        <g id="iShopee" transform="matrix(5.72089,0,0,5.72089,1520.29,-73.9816)">
+            <g transform="matrix(0.174798,0,0,0.174798,35.0333,12.9319)">
+                <g transform="matrix(241.162,0,0,241.162,111.079,786.161)">
+                    <rect x="0.066" y="-0.434" width="0.157" height="0.434" style="fill:rgb(239,129,0);"/>
+                </g>
+                <g transform="matrix(241.162,0,0,241.162,111.079,786.161)">
+                    <path d="M0.144,-0.497C0.191,-0.497 0.231,-0.536 0.231,-0.583C0.231,-0.63 0.191,-0.668 0.144,-0.668C0.097,-0.668 0.058,-0.63 0.058,-0.583C0.058,-0.536 0.097,-0.497 0.144,-0.497Z" style="fill:rgb(112,66,143);"/>
+                </g>
+            </g>
+            <g transform="matrix(40.0102,0,0,40.0102,66.7825,149.414)">
+                <path d="M0.258,0.008C0.372,0.008 0.469,-0.059 0.469,-0.18C0.469,-0.382 0.198,-0.346 0.198,-0.436C0.198,-0.46 0.217,-0.474 0.244,-0.474C0.278,-0.474 0.315,-0.451 0.351,-0.41L0.444,-0.506C0.398,-0.565 0.325,-0.603 0.247,-0.603C0.152,-0.603 0.05,-0.548 0.05,-0.426C0.05,-0.229 0.321,-0.261 0.321,-0.172C0.321,-0.147 0.3,-0.13 0.259,-0.13C0.207,-0.13 0.166,-0.159 0.145,-0.204L0.024,-0.128C0.064,-0.053 0.15,0.008 0.258,0.008Z" style="fill:rgb(239,129,0);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
