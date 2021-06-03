@@ -23,10 +23,6 @@
     </nav>
 </template>
 <style>
-li {
-    display: list-item;
-    text-align: -webkit-match-parent;
-}
 nav{
     display: flex;
     width: fit-content;
@@ -35,12 +31,16 @@ nav{
     -webkit-box-align: center;
     align-items: center;
 }
-nav > li {
+li {
 	height: 100%;
     margin-right: 24px;
     display: flex;
     -webkit-box-align: center;
     align-items: center;
 	color: aliceblue;
+    text-align: -webkit-match-parent;
+}
+a {
+    text-decoration: none;
 }
 </style>

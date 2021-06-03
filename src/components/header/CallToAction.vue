@@ -10,6 +10,7 @@
         </div>
     </div>
 </template>
+
 <style>
 div.cta {
 	display: flex;
@@ -35,9 +36,10 @@ div.cta3 {
     flex-direction: row;
 }
 a.cta4 {
+    /* font-weight: bold; */
     margin: 0px;
     color: rgb(130, 10, 209);
-    font-weight: 500;
+    font-weight: bold;
     letter-spacing: -0.03em;
     font-size: 1.125rem;
 	    text-decoration: none;

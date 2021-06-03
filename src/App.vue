@@ -22,7 +22,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 body, html {
   height: 100%;
   width: 100%;
@@ -30,5 +30,10 @@ body, html {
 #app {
   width: 100%;
   margin: 0;
+}
+@font-face {
+  font-family: "Now";
+  src: local("Now"),
+   url(/src/fonts/Now/NOW-BLACK.otf) format("truetype");
 }
 </style>
