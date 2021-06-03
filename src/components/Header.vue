@@ -17,22 +17,22 @@
 				<nav>
 					<li class="conheça">
 						<a class="link-conheça" href="https://tferp.com.br/descr/erp/" data-analytics-title="conheça">
-							<span class="link-text">Conheça</span>
+							Conheça
 						</a>
 					</li>
 					<li class="suporte">
 						<a class="link-suporte" href="https://tferp.com.br/help/" data-analytics-title="suporte">
-							<span class="link-text">Suporte</span>
+							Suporte
 						</a>
 					</li>
 					<li class="preços">
 						<a class="link-preços" href="https://tferp.com.br/price" data-analytics-title="preços">
-							<span class="link-text">Preços</span>
+							Preços
 						</a>
 					</li>
 					<li class="login">
 						<a class="link-login" href="https://tferp.com.br/" data-analytics-title="login">
-							<span class="link-text">Login</span>
+							Login
 						</a>
 					</li>
 				</nav>
@@ -40,7 +40,7 @@
 					<div class="cta2">
 						<div class="cta3">
 							<a class="cta4" href="/trial/" data-analytics-title="começe agora">
-								<span class="link-text">Começe agora</span>
+								Começe agora
 							</a>
 						</div>
 						<!-- <button class="trial"></button> -->
@@ -172,6 +172,18 @@ nav > li {
     display: flex;
     -webkit-box-align: center;
     align-items: center;
+	color: aliceblue;
+}
+::after {
+    content: "";
+    position: absolute;
+    bottom: -7px;
+    left: 50%;
+    display: block;
+    width: 4px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: rgb(130, 10, 209);
 }
 div.cta {
 	display: flex;
