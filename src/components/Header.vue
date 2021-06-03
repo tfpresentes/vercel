@@ -197,7 +197,6 @@ div.cta3 {
     flex-direction: row;
 }
 a.cta4 {
-    font-family: Graphik-Medium, Graphik-Regular, "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0px;
     color: rgb(130, 10, 209);
     font-weight: 500;
@@ -213,11 +212,6 @@ a.cta4 {
     background-size: 47px 8%, 100% 8%;
     transition: background-size 0.2s ease-in-out 0s;
     background-image: linear-gradient(120deg, rgb(130, 10, 209) 0%, rgb(130, 10, 209) 100%), linear-gradient(120deg, transparent, transparent);
-}
-a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 2em;
 }
 button.trial {
 	background-color: azure;
