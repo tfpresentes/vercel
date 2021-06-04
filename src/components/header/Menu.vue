@@ -30,6 +30,7 @@ nav{
     flex-direction: row;
     -webkit-box-align: center;
     align-items: center;
+    margin-left: 2em;
 }
 li {
 	height: 100%;
