@@ -37,10 +37,10 @@ li {
     display: flex;
     -webkit-box-align: center;
     align-items: center;
-	color: aliceblue;
     text-align: -webkit-match-parent;
 }
 a {
     text-decoration: none;
+    color: #511984;
 }
 </style>
