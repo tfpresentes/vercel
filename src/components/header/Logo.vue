@@ -43,4 +43,10 @@ a.logo4 {
     text-decoration: none;
     color: inherit;
 }
+.logo5 {
+    position: relative;
+    -webkit-transform: translateY(32%);
+    -ms-transform: translateY(32%);
+    transform: translateY(32%);
+}
 </style>
