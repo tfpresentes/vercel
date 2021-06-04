@@ -89,7 +89,8 @@ div.root3 {
     position: relative;
 }
 div.root4 {
-	background-image: linear-gradient(135deg,#eb4c00,#f2a900);
+	/* background-image: linear-gradient(135deg,#eb4c00,#f2a900); */
+    background-image: #EF8100;
     display: grid;
     width: 100%;
     height: 64px;
